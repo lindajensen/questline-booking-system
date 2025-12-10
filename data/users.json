@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "username": "Jonny",
+        "passwordHash": "$2y$12$EqTN.8RfEh6xkIGwxUc.FuTFQVSoDSKCYyzzRzgeqXT4c1mib4bQe"
+    },
+    {
+        "id": 2,
+        "name": "Jane Doe",
+        "username": "Janie",
+        "passwordHash": "$2y$12$0RBBp\/DO4gvbZZhutTDuquydfxxpuIv2DxC7vrbwuXgGrsNdEmgVa"
+    },
+    {
+        "id": 3,
+        "name": "Sam Smith",
+        "username": "Sammy",
+        "passwordHash": "$2y$12$OM9qrz66Jm436fset7wrbOf2.qknGrUoKhL0Iw3JvZ7HOSxAT3b.m"
+    },
+    {
+        "id": 4,
+        "name": "Linda Jensen",
+        "username": "Ruby",
+        "passwordHash": "$2y$12$M9dRRUIYjhiTo5boEu1leeerZo9p4o1gRHOf6zS4dktTS\/tEgV2zu"
+    }
+]

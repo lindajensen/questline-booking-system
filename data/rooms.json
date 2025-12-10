@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Hyrule Hall",
+        "seats": 10,
+        "has_tv": true,
+        "has_audio": true
+    },
+    {
+        "id": 2,
+        "name": "Sunfall",
+        "seats": 6,
+        "has_tv": true,
+        "has_audio": false
+    },
+    {
+        "id": 3,
+        "name": "Horseshoe Overlook",
+        "seats": 4,
+        "has_tv": false,
+        "has_audio": false
+    },
+    {
+        "id": 4,
+        "name": "Bridges HQ",
+        "seats": 12,
+        "has_tv": true,
+        "has_audio": true
+    },
+    {
+        "id": 5,
+        "name": "Croft Manor",
+        "seats": 8,
+        "has_tv": true,
+        "has_audio": true
+    },
+    {
+        "id": 6,
+        "name": "Baron Pit",
+        "seats": 10,
+        "has_tv": false,
+        "has_audio": false
+    },
+    {
+        "id": 7,
+        "name": "Dragon Lane",
+        "seats": 6,
+        "has_tv": true,
+        "has_audio": true
+    }
+]
