@@ -476,7 +476,7 @@ main {
 }
 
 .logout__banner {
-  background: linear-gradient(135deg, #53c1c5 0%, var(--primary) 100%);
+  background: linear-gradient(135deg, #53c1c5 0%, var(--secondary) 100%);
   padding: 2rem;
   text-align: center;
 }
