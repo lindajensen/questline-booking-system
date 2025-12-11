@@ -69,7 +69,6 @@ function countUserBookings(int $user_id, array $bookings): int {
   return $count;
 }
 
-
 // Get all bookings for a specific room, sorted chronologically
 function getRoomBookings(int $room_id, array $bookings): array {
   $room_bookings = [];
